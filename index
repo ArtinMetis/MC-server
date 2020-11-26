@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+  <head>
+    <link rel="index" href="css.css">
+    <lang = "en">
+  </head>
+  <body>
+  <ul>
+    <li><a href="default.html">Main menu</a></li>
+    <li><a href="news.html">Personen</a></li>
+    <li><a href="contact.html">IP adress</a></li>
+    <li><a href="about.html">Contact</a></li>
+  </ul>
+  </body>
+</html>
